@@ -1,7 +1,7 @@
 ### INFO330
 Database Systems and Management course taken during the Winter of 2022
 
-###In this course we learned how to create:
+### In this course we learned how to create:
 1. Stored Procedures
 2. Business Rules
 3. Computed Columns
